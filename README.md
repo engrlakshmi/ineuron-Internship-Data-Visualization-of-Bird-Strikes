@@ -7,7 +7,7 @@ A bird strike is specifically described as a collision between a bird and an air
 Any phase of flight may experience bird strikes, but due to the higher density of birds in flight at lower altitudes, the takeoff, initial ascent, approach, and landing phases are the most frequent. Recently an American Airlines Boeing 737-800 performing flight from chicago to Kansas sity was descending on the arrival when a flock of geese hit the aircraft causing severe damage to the nose and leading edges of wings taking out probes affecting cockpit indications. The data gathered on bird strikes by the FAA between 2000 and 2011 is visually represented in the following PDF if you want a deeper look.
 
 The list of charts developed for the data source are:
-Charts
+
 1.1 Visuals Depicting the Number of Bird Strikes:
 
 1.1.2 Yearly Analysis
