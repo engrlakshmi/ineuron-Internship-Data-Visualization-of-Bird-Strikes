@@ -1,6 +1,6 @@
 #  Project Title - Data Visualization of Bird Strikes
-#  Technologies - Business Intelligence
-#  Domain       - Transportation and Communication
+   Technologies - Business Intelligence
+   Domain       - Transportation and Communication
 
 Problem statement
 A bird strike is specifically described as a collision between a bird and an aircraft that is in flight or rolling out for takeoff or landing. The term is frequently broadened to include other wildlife strikes involving bats or ground creatures. Bird strikes are frequent and can pose a serious risk to the security of aeroplanes. Smaller aircraft may sustain considerable structural damage, and all aircraft, especially those powered by jet engines, are susceptible to the loss of thrust that can occur when birds are ingested by the engine air intakes. Several of these mishaps have been fatal as a result.
@@ -46,4 +46,4 @@ Approaches:Power BI
 
 Solution
 
-https://app.powerbi.com/reportEmbed?reportId=a7d2882a-03a0-4e6b-9695-ce20e21615bb&autoAuth=true&ctid=1c87fdb6-051d-43a4-a73c-ad6de4fac5b2
+(https://app.powerbi.com/reportEmbed?reportId=a7d2882a-03a0-4e6b-9695-ce20e21615bb&autoAuth=true&ctid=1c87fdb6-051d-43a4-a73c-ad6de4fac5b2)
