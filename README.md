@@ -46,4 +46,6 @@ Approaches:Power BI
 
 Solution
 
-(https://app.powerbi.com/reportEmbed?reportId=a7d2882a-03a0-4e6b-9695-ce20e21615bb&autoAuth=true&ctid=1c87fdb6-051d-43a4-a73c-ad6de4fac5b2)
+https://app.powerbi.com/groups/me/reports/a7d2882a-03a0-4e6b-9695-ce20e21615bb?ctid=1c87fdb6-051d-43a4-a73c-ad6de4fac5b2&pbi_source=linkShare
+
+https://app.powerbi.com/reportEmbed?reportId=a7d2882a-03a0-4e6b-9695-ce20e21615bb&autoAuth=true&ctid=1c87fdb6-051d-43a4-a73c-ad6de4fac5b2
